@@ -1,7 +1,7 @@
 OCTEON DPI DMA sample application
 =================================
 
-copyright (c) 2024 Marvell.
+Copyright (c) 2024 Marvell.
 
 This repo contains a simple DPI DMA application, it is just a sample application to provide
 a reference for developing DMA application along with user space DMA drivers.
